@@ -9,3 +9,6 @@
 - 📫 How to reach me: Twitter- @AkshithaSriyan2 https://twitter.com/AkshithaSriyan2
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours listening songs and watching Tv serious everyday
+
+
+<img src= "https://github-readme-stats.vercel.app/api?username=Akshisriyan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
