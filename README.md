@@ -1,6 +1,6 @@
-  ## Hi I am Akshitha Sriyanjith 👋
+  ## <h1>Hi I am Akshitha Sriyanjith 👋</h1>
 
-
+<b><h2>🙇‍♀️ About me</h2>
 
 - 🏫 An undergraduate Computer Science student at NSBM Green University.
 - 🌱 I’m currently learning: Python, Machine learning and Web Development 
@@ -10,5 +10,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours listening songs and watching Tv serious everyday
 
-
+<hr>
  <img src="https://github-readme-stats.vercel.app/api?username=Akshisriyan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
