@@ -32,4 +32,4 @@
 	  <br>
 </p>
 
-	[![@akshi's Holopin board](https://holopin.me/akshi)](https://holopin.io/@akshi)
+[![@akshi's Holopin board](https://holopin.me/akshi)](https://holopin.io/@akshi)
