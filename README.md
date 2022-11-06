@@ -32,4 +32,5 @@
 	  <br>
 </p>
 	<h2> Badges and Rewards </h2>
+
 [![@akshi's Holopin board](https://holopin.me/akshi)](https://holopin.io/@akshi)
