@@ -7,8 +7,7 @@
 - ⌨️ Languages: c python java javascript HTML5 CSS C#
 - 🤖 Skills: Beginner level in  Machine learning
 - 📫 How to reach me: Twitter- <a href="https://twitter.com/AkshithaSriyan2">@AkshithaSriyan2 </a>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 6 hours listening songs and watching TV Series everyday
+
 
 <hr>
   <p align="center">
