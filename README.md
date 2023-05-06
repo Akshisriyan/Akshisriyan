@@ -2,11 +2,33 @@
 
 <b><h2>🙇‍♀️ About me</h2>
 
-- 🏫 An undergraduate Computer Science student at NSBM Green University.
-- 🌱 I’m currently learning: Python, Machine learning and Web Development 
-- ⌨️ Languages: c python java javascript HTML5 CSS C#
-- 🤖 Skills: Beginner level in  Machine learning
-- 📫 How to reach me: Twitter- <a href="https://twitter.com/AkshithaSriyan2">@AkshithaSriyan2 </a>
+```yaml
+apiVersion: v23
+kind: lion
+metadata:
+  name: akshitha sriyanjith
+spec:
+  purpose: ?????????
+  locations:
+    - 
+      type:  LinkedIn
+      where: https://www.linkedin.com/in/akshithasriyanjith
+      
+    - 
+      type:  mail
+      where: akshithasriyanjith2000@gmail.com
+  Can do: 
+      type: programming 
+      ----: python,C#,C,java
+      
+      type: frameworks
+
+          -:.NET
+          -:ASp.NET
+          -:React
+          -:DJANGO
+   
+```
 
 
 <hr>
