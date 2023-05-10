@@ -1,7 +1,7 @@
   ## <h1 align="center">Hi I am Akshitha Sriyanjith 👋</h1>
   
    <div align="center">
-  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Full+stack+Developer+From+Srilanka...;Software+Designer...;Developer.....;Cloud+Computing..." alt="Typing SVG" /></a>
+  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Full+stack+Developer+From+Srilanka...;Software+Designer...;Developer.....;Cloud+Computing+ML+.NET..." alt="Typing SVG" /></a>
 </div> 
 
 <b><h2>🙇‍♀️ About me</h2>
