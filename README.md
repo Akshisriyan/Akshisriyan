@@ -1,9 +1,13 @@
   ## <h1 align="center">Hi I am Akshitha Sriyanjith 👋</h1>
   
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
    <div align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Full+stack+Developer+From+Srilanka...;Software+Designer...;Developer.....;Cloud+Computing+ML+.NET..." alt="Typing SVG" /></a>
 </div> 
-
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
 <b><h2>🙇‍♀️ About me</h2>
 
 ```yaml
@@ -35,15 +39,18 @@ spec:
 ```
 
 
-<hr>
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Akshisriyan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshisriyan&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <br>
-    </p>
-   <hr> 
+    </p>	
+<br>
+
   <p align="center">
 	<a href="https://github.com/Akshisriyan"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/></a>
 	  <a href="https://www.linkedin.com/in/akshitha-sriyanjith-077978213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -55,7 +62,9 @@ spec:
 	  
  <br>
  <br>
- <hr>
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
 	<h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -90,3 +99,6 @@ spec:
 <a href="https://www.linkedin.com/in/akshithasriyanjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akshitha Sriyanjith" height="30" width="40" /></a>
 
 </div>
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
