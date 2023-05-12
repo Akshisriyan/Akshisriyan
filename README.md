@@ -35,6 +35,12 @@ spec:
           -:ASp.NET
           -:React
           -:DJANGO
+
+       type: cloud
+          
+          -:aws
+          -:azure
+          -:googlecloud
    
 ```
 
