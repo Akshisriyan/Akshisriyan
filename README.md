@@ -48,6 +48,12 @@ spec:
 <br>
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshisriyan&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Akshisriyan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
@@ -62,6 +68,7 @@ spec:
 	  <a href="https://www.linkedin.com/in/akshitha-sriyanjith-077978213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     	<a href="https://twitter.com/AkshithaSriyan2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter"/></a>
 	
+
 <br>
 	  <br>
  <img src="https://camo.githubusercontent.com/ddd267ee999e5e96853b3992b1f0c193674f0569fec7b643ef9c8ee44c15a034/68747470733a2f2f677076632e6172747572696f2e6465762f52616a6974686c6168697275">
