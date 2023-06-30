@@ -1,6 +1,6 @@
   ## <h1 align="center">Hi I am Akshitha Sriyanjith 👋</h1>
-  
-<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+<a align="center" href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
    <div align="center">
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm +a+Full+stack+Developer...;Software+Designer...;Software+Developer.....;Cloud+Computing+ML+.NET...;From+Srilanka...;" alt="Typing SVG" /></a>
