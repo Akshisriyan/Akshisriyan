@@ -39,6 +39,15 @@ spec:
           -:ASp.NET
           -:React
           -:DJANGO
+          -:NEXT.js
+          -:Flutter
+
+      type: //backend//
+
+          -:MYsql
+          -:MongoDB
+          -:Firebase
+
 
        type: //cloud//
           
