@@ -26,7 +26,7 @@ spec:
       type:  //mail//
       where: akshithasriyanjith2000@gmail.com
   Can do: 
-      type: //programming// 
+      type: //Lang// 
       ----: python
           -:C#
           -:C
