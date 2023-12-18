@@ -81,7 +81,7 @@ spec:
 
   <p align="center">
 	<a href="https://github.com/Akshisriyan"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/></a>
-	  <a href="https://www.linkedin.com/in/akshitha-sriyanjith-077978213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	  <a href="https://www.linkedin.com/in/akshithasriyanjith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     	<a href="https://twitter.com/AkshithaSriyan2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter"/></a>
 	
 
