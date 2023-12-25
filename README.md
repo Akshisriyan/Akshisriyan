@@ -132,10 +132,10 @@ spec:
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
-    <td align="center" width="96">
+    <!--<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
-    </td>
+    </td>-->
   </tr>
   <tr>
   <td align="center" width="96">
@@ -195,6 +195,10 @@ spec:
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
+    </td>
+	<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
     </td>
            <!--   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
