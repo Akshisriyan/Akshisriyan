@@ -11,7 +11,7 @@
 <b><h2>🙇‍♀️ About me</h2>
 
 ```yaml
-apiVersion: v23
+apiVersion: v24+
 kind: ///?
 metadata:
   name: akshitha sriyanjith
