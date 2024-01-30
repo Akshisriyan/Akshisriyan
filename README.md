@@ -11,49 +11,49 @@
 <b><h2>🙇‍♀️ About me</h2>
 
 ```yaml
-apiVersion: v24+
-kind: ///?
+apiVersion: "v24+"
+kind: ""
 metadata:
-  name: akshitha sriyanjith
+  name: "akshitha sriyanjith"
 spec:
-  purpose: ?????????
+  purpose: "?"
   locations:
     - 
-      type:  LinkedIn
-      where: https://www.linkedin.com/in/akshithasriyanjith
+      type:  "LinkedIn"
+      where: https:"www.linkedin.com/in/akshithasriyanjith"
       
     - 
-      type:  //mail//
-      where: akshithasriyanjith2000@gmail.com
+      type:  "mail"
+      where: "akshithasriyanjith2000@gmail.com"
   Can do: 
-      type: //Lang// 
-      ----: python
-          -:C#
-          -:C
-          -:Java
-          -:Java Script
+      type: "Lang"
+      ----: "python"
+          -:"C#"
+          -:"C"
+          -:"Java"
+          -:"Java Script"
       
-      type: //frameworks//
+      type: "frameworks"
 
-          -:.NET
-          -:ASp.NET
-          -:React
-          -:DJANGO
-          -:NEXT.js
-          -:Flutter
+          -:".NET"
+          -:"ASp.NET"
+          -:"React"
+          -:"DJANGO"
+          -:"NEXT.js"
+          -:"Flutter"
 
-      type: //backend//
+      type: "backend"
 
-          -:MYsql
-          -:MongoDB
-          -:Firebase
+          -:"MYsql"
+          -:"MongoDB"
+          -:"Firebase"
 
 
-       type: //cloud//
+       type: "cloud"
           
-          -:aws
-          -:azure
-          -:googlecloud
+          -:"aws"
+          -:"azure"
+          -:"googlecloud"
    
 ```
 
