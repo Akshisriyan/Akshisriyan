@@ -75,10 +75,10 @@ spec:
 </p>
 
   <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Akshisriyan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Akshisriyan">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Akshisriyan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Akshisriyan">-->
 <br>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshisriyan&&langs_count=30&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Akshisriyan">
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshisriyan&&langs_count=30&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Akshisriyan">-->
   <br>
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Akshisriyan&theme=chartreuse-dark&hide_border=true" alt="Akshisriyan"> 
