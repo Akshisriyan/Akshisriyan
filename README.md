@@ -1,14 +1,21 @@
-  ## <h1 align="center">Hi I am Akshitha Sriyanjith 👋</h1>
+## <h1 align="center">Hi I am Akshitha Sriyanjith 👋</h1>
  
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
    <div align="center">
   <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines= STEM / Innovator / Software Engineer" alt=" Typing SVG" /></a> -->
 </div> 
-<br>
-<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
+
+
 <b><h2>🙇‍♀️ About me</h2>
+
+> 🚀 **Associate Software Engineer** at **Prime Engineering Lanka (Pvt) Ltd** | 📍 Colombo, Sri Lanka
+>
+> I build robust applications using **C#, .NET, ASP.NET MVC**, and **Java Spring Boot**, with hands-on experience in backend development (SQL, PSQL), mobile apps (Flutter, Firebase, MongoDB), and cloud platforms (AWS, Azure). Currently working on a **Stock Retail Centralized System** and **Emission Testing Software** in a microservice architecture.
+>
+> 🎓 BSc Computer Science @ **NSBM Green University** (GPA: 3.62 — Second Class Upper) | 📄 Published researcher at **ICACT 2025** in AI & Data Science | 🏆 Most Impact STEM Volunteer 2025 — STEMUP Education Foundation
+
+<!--<br>
 
 ```yaml
 apiVersion: "v25+"
@@ -58,7 +65,7 @@ spec:
 ```
 
 
-<br>
+<br>-->
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 <p align="center">
@@ -116,10 +123,6 @@ spec:
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-    <!--<td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>-->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
@@ -132,10 +135,6 @@ spec:
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
-    <!--<td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>-->
   </tr>
   <tr>
   <td align="center" width="96">
@@ -149,10 +148,6 @@ spec:
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <!--<td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>-->
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -169,10 +164,6 @@ spec:
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-    <!--<td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>-->
   </tr>
  <tr>
       <td align="center" width="96">
@@ -183,16 +174,15 @@ spec:
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
-      </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
     </td>
@@ -200,41 +190,82 @@ spec:
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-           <!--   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>-->
  </tr>
 </table>
 <br><br>
 
 </div>
-	
+
 <br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
+
+<h2>💼 Work Experience</h2>
+
+| Role | Company | Period |
+|------|---------|--------|
+| 🟢 Associate Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Oct 2024 – Present |
+| 🔵 Trainee Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Apr 2024 – Oct 2024 |
+
+**Key Projects:**
+- 🛒 **Stock Retail Centralized System** — Java Spring Boot · Next.js · MySQL · Microservices
+- 🚗 **Emission Testing Software** — .NET (C#) · SQL Server · Crystal Report · MVC
+- 🏪 **Point Of Sale Software** — .NET Core · Azure Cloud · MVC
+- 📱 **Stock Count Mobile App** — Flutter · Dart · REST API
+
 <br>
-</p>
-	<h2> Badges and Rewards </h2>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+
+<h2>🎓 Education</h2>
+
+🏫 **BSc Computer Science** — NSBM Green University, Sri Lanka (2021–2025) | GPA: **3.62** *(Second Class Upper)*
+
+🏫 **Diploma in Software Engineering** — University of Sabaragamuwa, Sri Lanka (2019–2021) | GPA: **3.16**
+
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+
+<h2>📂 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td>🏨 <b>Hotel Management System</b><br><sub>C# · .NET · SQL Server · REST API</sub></td>
+    <td>✋ <b>ML Gesture Application</b><br><sub>Python · OpenCV · Flask · ML</sub></td>
+    <td>🏫 <b>School Management System</b><br><sub>Python · Django · SQLite3 · REST API</sub></td>
+  </tr>
+  <tr>
+    <td>✈️ <b>Travel Nebula Mobile App</b><br><sub>Flutter · Firebase · Python · ML</sub></td>
+    <td>♿ <b>Braille System</b><br><sub>ASP.NET · C# · SOAP · HTML/CSS</sub></td>
+    <td>🏛️ <b>Japan Lanka Institute MIS</b><br><sub>C# .NET · PL/SQL · Power BI · ETL</sub></td>
+  </tr>
+</table>
+
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+
+<h2>📜 Research & Awards</h2>
+
+- 📄 **Published** at *International Conference on Advanced Computing Technologies (ICACT 2025)* — Track: Frontiers in Data Science & AI Innovation
+- 🏆 **Most Impact STEM Volunteer Award** — STEMUP Education Foundation, 2025
+- ☁️ **AWS University Outreach Program (2023)** at NSBM — Technical Lead
+
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+
+<!--	
 	<!--- trophy (start) -->
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+ <!-- <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AkshiSriyan&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a><br>
-<br><br>
+    </a>
+	<br>-->
 <br>
 <br>
+<br><h2> Badges and Rewards </h2>
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 <!--- trophy (start) -->
