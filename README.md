@@ -9,7 +9,7 @@
 
 <b><h2>🙇‍♀️ About me</h2>
 
-> 🚀 **Associate Software Engineer** at **Prime Engineering Lanka (Pvt) Ltd** | 📍 Colombo, Sri Lanka
+> 🚀 **Software Engineer** at **Prime Engineering Lanka (Pvt) Ltd** | 📍 Colombo, Sri Lanka
 >
 > I build robust applications using **C#, .NET, ASP.NET MVC**, and **Java Spring Boot**, with hands-on experience in backend development (SQL, PSQL), mobile apps (Flutter, Firebase, MongoDB), and cloud platforms (AWS, Azure). Currently working on a **Stock Retail Centralized System** and **Emission Testing Software** in a microservice architecture.
 >
@@ -204,7 +204,8 @@ spec:
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🟢 Associate Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Oct 2024 – Present |
+| 🟢 Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Oct 2024 – Present |
+| 🟢 Associate Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Oct 2024 – Oct 2026 |
 | 🔵 Trainee Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Apr 2024 – Oct 2024 |
 
 **Key Projects:**
