@@ -204,7 +204,7 @@ spec:
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🟢 Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Oct 2024 – Present |
+| 🟢 Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Oct 2026 – Present |
 | 🟢 Associate Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Oct 2024 – Oct 2026 |
 | 🔵 Trainee Software Engineer | Prime Engineering Lanka (Pvt) Ltd | Apr 2024 – Oct 2024 |
 
